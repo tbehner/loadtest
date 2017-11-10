@@ -6,4 +6,7 @@ If you open a file FN, this plugin will look from your current working directory
 This happens only for python files, i.e. files having a '.py' extension.
 
 ## Installation
-Install with vim-plug and do a :UpdateRemotePlugin.
+Install with vim-plug and do a 
+```
+:UpdateRemotePlugin
+```
